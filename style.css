@@ -19,7 +19,10 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #fde68a;
+  background-image: url("https://imgs.search.brave.com/XobKRzbQoSXmzapg1NNfUyMhXMUB4nVqvYPXWfIOyWM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC9OYUphb3Q1/LmpwZw");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-color: #fde68a; */
 }
 
 h1 {
